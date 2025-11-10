@@ -6,6 +6,6 @@ public class Principal {
 
         Dobro dobro = new Dobro();
         dobro.numero = 4;
-        System.out.println(dobro.dobra());
+        System.out.println("O dobro do número " + dobro.numero + " é " + dobro.dobra() + "!");
     }
 }
