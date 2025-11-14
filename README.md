@@ -1,7 +1,5 @@
-# DarkMatter
-Onde desenvolvo testes e exercícios sobre o que estou estudando, é aqui que tudo se une!
-
 # 🌌 DarkMatter: Meu Universo de Estudos e Prática
+Onde desenvolvo testes e exercícios sobre o que estou estudando, é aqui que tudo se une!
 
 [![GitHub stars](https://img.shields.io/github/stars/devbeafg/DarkMatter?style=social)](https://github.com/devbeafg/DarkMatter/stargazers)
 
